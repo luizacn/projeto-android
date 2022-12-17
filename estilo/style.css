@@ -59,7 +59,7 @@ header>p {
     color: white;
     font-size: 1.2em;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.316);
-    margin-bottom: 20px;
+    padding-bottom: 50px;  /*margin-bottom: 20px;*/
 }
 
 nav {
